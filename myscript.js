@@ -62,7 +62,7 @@ function initScript() {
                     .sendMessage({
                         method: 'POST',
                         action: 'xhttp',
-                        url: 'https://happyzone.herokuapp.com/api/isSadPost',
+                        url: 'https://happy-zone.herokuapp.com/api/isSadPost',
                         data: `text=${element.textContent}`
                     }, (res) => {
 
