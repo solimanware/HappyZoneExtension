@@ -15,7 +15,6 @@
      "128": "icon128.png" }
      ,
     "permissions": [
-     "activeTab",
      "https://www.facebook.com/*"
      ],
      "content_scripts": [
